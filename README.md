@@ -1,5 +1,5 @@
 # Bot-Security-Test
-Cybersecurity School Project where we created a Bot mimics human behaviour and plays a simple color clicking game by itself, and analyzed if we could detect it
+Cybersecurity School Project where we created a Bot that mimics human behaviour and plays a simple color clicking game by itself, and analyzed if we could detect it
  
  - Bot programmed in python
  - uses pyautogui to control mouse and keyboard
