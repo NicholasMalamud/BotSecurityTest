@@ -9,7 +9,4 @@ Cybersecurity Project, where we created a Bot that can mimic human behaviour and
  - uses openCV functions to apply color filtering on the screen and identify the colored button (much faster than looking through every pixel)
  - tested on a unity game that we made, colored squares are randomly generated
 
-Results:
-https://docs.google.com/file/d/1G--AYrOQWDPG9MkQgZNeEBx-aeXWeGmp/preview
-
 Created by: Liam Gomez, Zach Mekaelian, Nicholas Malamud, Young Taek William Oh
