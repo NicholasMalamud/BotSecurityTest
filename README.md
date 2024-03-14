@@ -1,4 +1,7 @@
 # Bot-Security-Test
+
+View Here: https://nicholasmalamud.github.io/BotSecurityTest.html
+
 Cybersecurity Project, where we created a Bot that can mimic human behaviour and play a color clicking game by itself, and analyzed if we could detect whether a human or a bot was playing the game
  
  - Bot programmed in python
